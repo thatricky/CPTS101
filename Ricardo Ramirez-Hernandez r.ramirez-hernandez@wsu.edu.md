@@ -1,6 +1,8 @@
 # CPTS101
 CPTS101
-git add resume.pdf
-git commit -m "my resume"
+cd This PC/Local Disk(C:)/Users/ricar/Downloads/Resume.pdf
 git status
-git log
+
+git add This PC/Local Disk(C:)/Users/ricar/Downloads/Resume.pdf
+git commit -m "added file to repository"
+git push origin main
